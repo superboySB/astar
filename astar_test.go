@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/fzipp/astar"
+	"github.com/superboySB/astar"
 )
 
 func TestFindPath(t *testing.T) {

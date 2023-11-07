@@ -9,7 +9,7 @@ import (
 	"image"
 	"math"
 
-	"github.com/fzipp/astar"
+	"github.com/superboySB/astar"
 )
 
 func ExampleFindPath() {
